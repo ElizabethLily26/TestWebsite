@@ -1,0 +1,23 @@
+
+nav a{
+    text-decoration: none;
+    color: darkslategray;
+}
+nav a:hover{
+    color: rgb(2, 96, 2);
+}
+.image-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.image-box img{
+    width: 200px;
+    height: auto;
+}
+
+#ClickMeButton{
+    align-items: right;
+    color: darkgreen;
+}
